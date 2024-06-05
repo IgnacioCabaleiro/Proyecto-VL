@@ -34,6 +34,6 @@ El objetivo de este proyecto es analizar los datos de calidad del agua del Río 
 ---
 
 ### **Recursos**
-- Los datos para el análisis del río de la Plata son sacados de [ciam.ambiente.gob.ar](https://ciam.ambiente.gob.ar/repositorio.php?tid=1&stid=2&did=382#).
+- Los datos para el análisis del río de la Plata son sacados de https://ciam.ambiente.gob.ar/repositorio.php?tid=1&stid=2&did=382# .
 - Los datos para el análisis de los tweets fueron recolectados mediante el siguiente scraper: [bardeen.ai/scraper](https://www.bardeen.ai/scraper).
 - El proyecto fue realizado en la versión de Python 3.11.0.
